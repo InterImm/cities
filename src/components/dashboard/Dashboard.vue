@@ -3,8 +3,8 @@
     <div class="row">
       <div class="col-md-12">
         <vuestic-alert type="success" :withCloseBtn="true">
-          <span class="badge badge-pill badge-success">建筑命名征集中</span>
-          在我们的地图上标注你的公司和房子：<a href="https://github.com/InterImm/martian-cities/issues/" target="_blank">Martian Cities @ GitHub</a>
+          <span class="badge badge-pill badge-success">建筑和道路命名征集中</span>
+          在我们的地图上标注你的公司和房子：<a href="https://github.com/InterImm/martian-cities/issues/2" target="_blank">Martian Cities @ GitHub</a>
           <i class="fa fa-close alert-close"></i>
         </vuestic-alert>
       </div>

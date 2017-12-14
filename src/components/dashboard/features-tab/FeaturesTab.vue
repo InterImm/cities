@@ -34,13 +34,13 @@
           <div class="overview-icon-container">
           <i class="fa fa-shopping-bag fa-2x"></i>
           </div>
-          免费抢驻黄金商圈
+          规划黄金商圈
         </div>
         <div class="overview-item">
           <div class="overview-icon-container">
           <i class="fa fa-institution fa-2x"></i>
           </div>
-          领取私有豪华住房
+          精雕私有豪华住房
         </div>
       </div>
     </div>

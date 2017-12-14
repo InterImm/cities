@@ -82,6 +82,10 @@
       margin: 0;
     }
 
+    a.nav-link {
+    color: white;
+    }
+
     height: $top-nav-height;
     padding-left: $nav-padding-left;
     padding-right: $nav-padding-right;
